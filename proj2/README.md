@@ -9,13 +9,6 @@ Required libraries: pickle, os, pandas, scikit-learn, seaborn, numpy, matplotlib
 Source codes can be found in [*srcs*](https://github.com/singh-classes/project-2-newbee/tree/main/srcs) folder.
 ### Command line
 ```
-git clone https://github.com/singh-classes/project-2-newbee.git
-```
->Unzip allfeature.for_all.zip at file path: `<proj2_file>/project-2-newbee/srcs/Data`
-```
-cd <proj2_file>/project-2-newbee/srcs
-```
-```
 python Data_cleaning.py
 ```
 >This Script is to do the data cleaning process in the datasets (artist.csv, allfeature.for_all.csv). These two datasets are in the file path: `<proj2_file>/project-2-newbee/srcs/Data`
