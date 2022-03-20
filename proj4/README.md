@@ -13,14 +13,6 @@ Environment: Python3.8<br>
 Source codes can be found in the main directory.
 ### Command line
 ```
-git clone https://github.com/singh-classes/project-4-newbee.git
-```
-> * Unzip clean_allfeature.for_all at file path: `<proj4_file>/project-4-newbee/Data`.<br>
-```
-cd <proj4_file>/project-4-newbee
-```
-> Move into the project directory
-```
 pip install -r requirments.txt
 ```
 > Must run this command line to install all required libraries before other codes.
