@@ -1,19 +1,10 @@
 # COSC-587-P3
 A project for hypothesis tesing of music data.<br>
-You can find the report from [report pdf](https://github.com/singh-classes/project-2-newbee/blob/main/report.pdf).
 ## How to use
 Environment: Python3.8<br>
 
 Source codes can be found in [*srcs*](https://github.com/singh-classes/project-3-newbee/tree/main/srcs) folder.
 ### Command line
-```
-git clone https://github.com/singh-classes/project-3-newbee.git
-```
-> * Unzip clean_allfeature.for_all at file path: `<proj3_file>/project-3-newbee/srcs/Data`.<br>
-```
-cd <proj3_file>/project-3-newbee
-```
-> Move into the project directory
 ```
 pip install -r requirments.txt
 ```
